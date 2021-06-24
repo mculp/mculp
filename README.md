@@ -1,4 +1,4 @@
-- :telescope: I’m currently working on scaling a non-Rails Ruby project
+- :telescope: I’m currently working on scaling a non-Rails Ruby project and leading a team of engineers
 
 <img src="https://pbs.twimg.com/profile_banners/21530821/1624495379/1500x500">
 
