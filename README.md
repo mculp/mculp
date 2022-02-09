@@ -1,9 +1,9 @@
-- :telescope: I’m currently working on scaling a non-Rails Ruby project and leading a team of engineers
+- :telescope: I’m currently a principal engineer working on the architecture of a web2 api
 
 <img src="https://pbs.twimg.com/profile_banners/21530821/1624495379/1500x500">
 
-- 🌱 I’m currently learning how to make web applications fast and how to be an effective leader
-- 💬 Ask me about Ruby, Crypto, or if you are looking for a job
+- 🌱 I’m currently learning how to make backend web applications and databases go brrrr
+- 💬 Ask me about Ruby, APIs, Web3, or if you are looking for a job
 - 📫 How to reach me: [@_mculp on twitter](https://twitter.com/_mculp)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [my first website](https://web.archive.org/web/20010601000000*/pages.prodigy.com/mattsarena)
