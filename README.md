@@ -1,4 +1,4 @@
-- :telescope: I’m currently a principal engineer working on the architecture of a web2 api
+- :telescope: I’m currently a principal engineer on the architecture team at PrimeTrust. We are building B2B infra for the decentralized web.
 
 <img src="https://pbs.twimg.com/profile_banners/21530821/1624495379/1500x500">
 
