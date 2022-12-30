@@ -1,5 +1,8 @@
-- :telescope: I’m currently a principal engineer on the architecture team at PrimeTrust. We are building B2B APIs to help bootstrap crypto startups.
-- 🌱 I’m currently learning Web3 and related tech
+- 🔭 Engineer at @wrapbook
+- 🌱 I love working on performance, scaling, internal tooling, refactoring, object-oriented design. 
+- 🤓 Perpetually curious, perpetually looking for people to share with and learn from.
+- ✨ Quality over velocity.
+- 🥸 I think your deadlines are artificial.
 - 💬 Ask me about anything
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: [my first website, &copy; 1996](https://web.archive.org/web/20010601000000*/pages.prodigy.com/mattsarena)
