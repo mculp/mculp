@@ -1,12 +1,11 @@
 # matt culpepper // rhiza
 
-staff software engineer @ [wrapbook](https://wrapbook.com). chunky, ms by way of flowood, ms.
+staff software engineer @ [wrapbook](https://wrapbook.com).
 
 <img src="assets/rektguy-1386.gif" alt="rektguy 1386" width="320" align="right">
 
-ruby brain. php + html before that. a fleet of agents behind that.
 
-raising a kid (molly, homeschooled, priority one). dog named charli. baby kitten named murcialago. orange cat called el gato (boba on tuesdays).
+dad to teenage daughter, english lab named charli, tabby called boba el gato, baby siamese kitten named lotus murciélago.
 
 mississippi state fan, unfortunately.
 
