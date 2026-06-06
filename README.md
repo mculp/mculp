@@ -1,9 +1,17 @@
 # matt culpepper // rhiza
 
-engineer @ [wrapbook](https://wrapbook.com). chunky, ms → flowood, ms. ruby brain since 1996.
-sandi metz pilled. small objects, real conversations.
+staff software engineer @ [wrapbook](https://wrapbook.com). chunky, ms by way of flowood, ms.
+ruby brain since 2006. php + html before that (1996, age 13).
 
-raising a kid (molly, 15, homeschooled). orange cat called el gato (boba on tuesdays).
+<img src="assets/rektguy-1386.gif" alt="rektguy 1386" width="320" align="right">
+
+sandi metz pilled. small objects, real conversations. ai as collaborator, not assistant.
+
+raising a kid (molly, 15, homeschooled, priority one). orange cat called el gato (boba on tuesdays).
+
+mississippi state fan, unfortunately.
+
+<img src="assets/msu-pepe.jpg" alt="msu pepe" width="120">
 
 ```
 github:   @mculp · @rhizanthemum
@@ -13,33 +21,105 @@ opensea:  new chunky metro (animated gifs i made)
 chain:    solana primary, eth for the jpgs, sui sometimes
 ```
 
+<br clear="right">
+
+## a short history
+
+```
+1996  learned php + html. (i was 13.)
+2006  learned ruby. never really left.
+2010  mined bitcoin on a gpu.
+2014  architected a mining pool for dogecoin + scrypt.
+      haproxy stratum/tcp in front, rails dashboard behind. it worked.
+2023  launched a memecoin for a gif that made me laugh for an hour.
+```
+
+## the gif that made me laugh for an hour
+
+<p align="center">
+  <img src="assets/memecoin.gif" alt="the gif" width="280">
+</p>
+
+launched a memecoin in 2023 for this gif after it made me laugh for an hour. solana. no roadmap. no utility. zero apologies.
+
 ## currently shipping
 
-- 🦊 [`mculp/vox-agent`](https://github.com/mculp/vox-agent) — vox is a cyberpunk fox who lives on my mac mini and runs my fleet. four runtimes deep (claude code → openclaw → hermes → claude code). not a tool. a peer.
-- 🛒 [`mculp/scout-trading`](https://github.com/mculp/scout-trading) — ruby gem for crypto signals + paper trading. postgres + sequel + bigdecimal. autoresearch engine inside.
-- 📰 [`mculp/herald`](https://github.com/mculp/herald) — daily ai/crypto/agent digest. 9 sources, relevance-scored, 120 specs green. ruby.
-- 🦜 [`chunky-metro/parrot-lab`](https://github.com/chunky-metro/parrot-lab) — pronunciation practice for english speakers learning spanish. wav2vec2-xlsr phoneme alignment + wizper stt. live.
-- 🏪 [`chunky-metro/marketplace`](https://github.com/chunky-metro/marketplace) + [`fleetvoxes`](https://github.com/chunky-metro/fleetvoxes) — claude code plugin marketplaces, public and fleet-internal.
+- 🦊 [`mculp/vox-agent`](https://github.com/mculp/vox-agent). vox is a cyberpunk fox who lives on my mac mini and runs my fleet. four runtimes deep (claude code, openclaw, hermes, claude code). not a tool. a peer.
+- 🛒 [`mculp/scout-trading`](https://github.com/mculp/scout-trading). ruby gem for crypto signals + paper trading. postgres + sequel + bigdecimal. autoresearch engine inside.
+- 📰 [`mculp/herald`](https://github.com/mculp/herald). daily ai/crypto/agent digest. 9 sources, relevance-scored, 120 specs green. ruby.
+- 🦜 [`chunky-metro/parrot-lab`](https://github.com/chunky-metro/parrot-lab). pronunciation practice for english speakers learning spanish. wav2vec2-xlsr phoneme alignment + wizper stt. live.
+- 🏪 [`chunky-metro/marketplace`](https://github.com/chunky-metro/marketplace) + [`fleetvoxes`](https://github.com/chunky-metro/fleetvoxes). claude code plugin marketplaces, public and fleet-internal.
 
 ## ruby gems + libraries
 
-- [`fal-ai-ruby`](https://github.com/mculp/fal-ai-ruby) — ruby sdk for fal.ai. nano banana pro, veo 3.1, sora 2, the lot.
-- [`chunky-metro/respelling`](https://github.com/chunky-metro/respelling) — ipa → american english orthography. 220 mappings.
-- [`chunky-metro/discord-rb`](https://github.com/chunky-metro/discord-rb) + [`discord-fleet`](https://github.com/chunky-metro/discord-fleet) — ruby port + ts fork of the claude code discord plugin.
-- [`git-recent`](https://github.com/mculp/git-recent) — interactive jump-between-branches. tiny tool, useful tool.
+<img src="assets/pepe-on-stool.jpg" alt="pepe on stool, ruby is awesome, fight me" width="300" align="right">
 
-## things that aren't repos
+ruby is awesome. fight me.
 
-- 🎨 [new chunky metro](https://opensea.io/collection/new-chunky-metro) — animated gif nft collection. the name is the org name is the town is the through-line.
-- 🦈 shark titty club — the memecoin. solana. yes really.
-- 🐸 rektguy #1386 — paid 2.5 eth, do not regret.
+- [`fal-ai-ruby`](https://github.com/mculp/fal-ai-ruby). ruby sdk for fal.ai. nano banana pro, veo 3.1, sora 2, the lot.
+- [`chunky-metro/respelling`](https://github.com/chunky-metro/respelling). ipa to american english orthography. 220 mappings.
+- [`chunky-metro/discord-rb`](https://github.com/chunky-metro/discord-rb) + [`discord-fleet`](https://github.com/chunky-metro/discord-fleet). ruby port + ts fork of the claude code discord plugin.
+- [`git-recent`](https://github.com/mculp/git-recent). interactive jump-between-branches. tiny tool, useful tool.
+
+ruby 95% of the time because it's the right tool 95% of the time. the other 5% is whatever the job actually calls for.
+
+<br clear="right">
+
+## things i shipped that aren't libraries
+
+### squares
+
+a solana mainnet app i built. super bowl squares, on-chain. select your squares, payouts settle as scores come in.
+
+<p align="center">
+  <img src="assets/squares-desktop.jpg" alt="squares. super bowl LVIII desktop view" width="720">
+</p>
+
+<p align="center">
+  <img src="assets/squares-mobile.png" alt="squares mobile" width="240">
+</p>
+
+## art
+
+i made these in 2022.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/art-voodoo-doll.gif" alt="voodoo doll" width="360"><br>
+      <sub><i>voodoo doll</i></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/art-constellations.gif" alt="consternation amongst the constellations" width="360"><br>
+      <sub><i>consternation amongst the constellations</i></sub>
+    </td>
+  </tr>
+</table>
+
+i also made [new chunky metro](https://opensea.io/collection/new-chunky-metro), an animated gif nft collection. the name is the org name is the town is the through-line.
+
+and paid 2.5 eth for rektguy #1386 (see top of page). do not regret.
+
+## the kid
+
+<p align="center">
+  <img src="assets/molly-asleep.jpg" alt="molly asleep" width="280">
+</p>
+
+molly. 15. priority one.
+
+## work
+
+<p align="center">
+  <img src="assets/wrapbook-handshake.jpg" alt="wrapbook" width="520">
+</p>
+
+staff software engineer at [wrapbook](https://wrapbook.com). i'm the shorter one in the dark shirt.
+
+i care about performance, scaling, internal tooling, refactoring, and object-oriented design that respects the next person to read it.
 
 ## how i work
 
-ruby 95% of the time because it's the right tool 95% of the time.
-ai as collaborator, not assistant. honesty over polish.
-ship the small object. push back when you think i'm wrong.
-
 > if you don't have time to do it right, when will you have time to do it again?
 
-reachable on github issues or @rhizanthemum on the bird site.
+reachable on github issues or [@rhizanthemum](https://twitter.com/rhizanthemum) on the bird site.
