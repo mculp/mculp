@@ -1,6 +1,6 @@
 # matt culpepper // rhiza
 
-staff software engineer @ [wrapbook](https://wrapbook.com). chunky, ms by way of flowood, ms.
+staff software engineer @ [wrapbook](https://wrapbook.com). flowood, ms by way of chunky, ms.
 
 <img src="assets/rektguy-1386.gif" alt="rektguy 1386" width="320" align="right">
 
